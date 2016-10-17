@@ -28,7 +28,6 @@ from apscheduler.schedulers.background import BackgroundScheduler
 import SDL_Pi_SI1145
 
 sensor = SDL_Pi_SI1145.SDL_Pi_SI1145()
-#LED Line definitation (BCM Model)
 
 # setup apscheduler
 
